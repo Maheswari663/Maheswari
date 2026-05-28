@@ -22,6 +22,7 @@
 | [0049-group-anagrams](https://github.com/Maheswari663/Maheswari/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Maheswari663/Maheswari/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
 | [0695-max-area-of-island](https://github.com/Maheswari663/Maheswari/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/Maheswari663/Maheswari/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/Maheswari663/Maheswari/tree/master/1046-last-stone-weight) |
@@ -88,4 +89,16 @@
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/Maheswari663/Maheswari/tree/master/1046-last-stone-weight) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
