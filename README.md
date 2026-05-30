@@ -24,6 +24,7 @@
 | [0213-house-robber-ii](https://github.com/Maheswari663/Maheswari/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Maheswari663/Maheswari/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
+| [0494-target-sum](https://github.com/Maheswari663/Maheswari/tree/master/0494-target-sum) |
 | [0695-max-area-of-island](https://github.com/Maheswari663/Maheswari/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/Maheswari663/Maheswari/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/Maheswari663/Maheswari/tree/master/1046-last-stone-weight) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Maheswari663/Maheswari/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/Maheswari663/Maheswari/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Maheswari663/Maheswari/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Maheswari663/Maheswari/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Maheswari663/Maheswari/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
