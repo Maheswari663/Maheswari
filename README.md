@@ -29,6 +29,7 @@
 | [0494-target-sum](https://github.com/Maheswari663/Maheswari/tree/master/0494-target-sum) |
 | [0695-max-area-of-island](https://github.com/Maheswari663/Maheswari/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/Maheswari663/Maheswari/tree/master/0746-min-cost-climbing-stairs) |
+| [0853-car-fleet](https://github.com/Maheswari663/Maheswari/tree/master/0853-car-fleet) |
 | [1046-last-stone-weight](https://github.com/Maheswari663/Maheswari/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Maheswari663/Maheswari/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Table
@@ -45,6 +46,7 @@
 | [0049-group-anagrams](https://github.com/Maheswari663/Maheswari/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Maheswari663/Maheswari/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Maheswari663/Maheswari/tree/master/0242-valid-anagram) |
+| [0853-car-fleet](https://github.com/Maheswari663/Maheswari/tree/master/0853-car-fleet) |
 ## String
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Maheswari663/Maheswari/tree/master/0678-valid-parenthesis-string) |
+| [0853-car-fleet](https://github.com/Maheswari663/Maheswari/tree/master/0853-car-fleet) |
 ## Greedy
 |  |
 | ------- |
@@ -125,6 +128,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
+| [0853-car-fleet](https://github.com/Maheswari663/Maheswari/tree/master/0853-car-fleet) |
 ## Topological Sort
 |  |
 | ------- |
