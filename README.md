@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Maheswari663/Maheswari/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Maheswari663/Maheswari/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Maheswari663/Maheswari/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/Maheswari663/Maheswari/tree/master/0134-gas-station) |
@@ -115,6 +116,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Maheswari663/Maheswari/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
 | [0981-time-based-key-value-store](https://github.com/Maheswari663/Maheswari/tree/master/0981-time-based-key-value-store) |
 ## Bit Manipulation
