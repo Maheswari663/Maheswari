@@ -41,6 +41,7 @@
 | [0146-lru-cache](https://github.com/Maheswari663/Maheswari/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Maheswari663/Maheswari/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Maheswari663/Maheswari/tree/master/0242-valid-anagram) |
+| [0355-design-twitter](https://github.com/Maheswari663/Maheswari/tree/master/0355-design-twitter) |
 | [0981-time-based-key-value-store](https://github.com/Maheswari663/Maheswari/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -107,6 +108,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Maheswari663/Maheswari/tree/master/0355-design-twitter) |
 | [1046-last-stone-weight](https://github.com/Maheswari663/Maheswari/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
@@ -140,11 +142,13 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Maheswari663/Maheswari/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/Maheswari663/Maheswari/tree/master/0355-design-twitter) |
 | [0981-time-based-key-value-store](https://github.com/Maheswari663/Maheswari/tree/master/0981-time-based-key-value-store) |
 ## Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Maheswari663/Maheswari/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/Maheswari663/Maheswari/tree/master/0355-design-twitter) |
 ## Doubly-Linked List
 |  |
 | ------- |
