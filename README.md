@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Maheswari663/Maheswari/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Maheswari663/Maheswari/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Maheswari663/Maheswari/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
@@ -100,11 +101,13 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Maheswari663/Maheswari/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/Maheswari663/Maheswari/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Maheswari663/Maheswari/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Maheswari663/Maheswari/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/Maheswari663/Maheswari/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Maheswari663/Maheswari/tree/master/0743-network-delay-time) |
 ## Matrix
 |  |
 | ------- |
@@ -113,6 +116,7 @@
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/Maheswari663/Maheswari/tree/master/0355-design-twitter) |
+| [0743-network-delay-time](https://github.com/Maheswari663/Maheswari/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/Maheswari663/Maheswari/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
@@ -157,4 +161,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Maheswari663/Maheswari/tree/master/0146-lru-cache) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Maheswari663/Maheswari/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
