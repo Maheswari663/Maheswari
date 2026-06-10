@@ -159,6 +159,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Maheswari663/Maheswari/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Maheswari663/Maheswari/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/Maheswari663/Maheswari/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/Maheswari663/Maheswari/tree/master/0355-design-twitter) |
 ## Doubly-Linked List
 |  |
@@ -168,4 +169,8 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Maheswari663/Maheswari/tree/master/0743-network-delay-time) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Maheswari663/Maheswari/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
