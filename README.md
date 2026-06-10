@@ -40,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Maheswari663/Maheswari/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Maheswari663/Maheswari/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Maheswari663/Maheswari/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Maheswari663/Maheswari/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Maheswari663/Maheswari/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Maheswari663/Maheswari/tree/master/0242-valid-anagram) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/Maheswari663/Maheswari/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -155,6 +157,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Maheswari663/Maheswari/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Maheswari663/Maheswari/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/Maheswari663/Maheswari/tree/master/0355-design-twitter) |
 ## Doubly-Linked List
