@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/Maheswari663/Maheswari/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Maheswari663/Maheswari/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Maheswari663/Maheswari/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/Maheswari663/Maheswari/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Maheswari663/Maheswari/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/Maheswari663/Maheswari/tree/master/0134-gas-station) |
@@ -146,6 +147,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Maheswari663/Maheswari/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/Maheswari663/Maheswari/tree/master/0494-target-sum) |
 ## Monotonic Stack
 |  |
