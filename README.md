@@ -64,6 +64,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Maheswari663/Maheswari/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Maheswari663/Maheswari/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Maheswari663/Maheswari/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Maheswari663/Maheswari/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Maheswari663/Maheswari/tree/master/0678-valid-parenthesis-string) |
 | [0981-time-based-key-value-store](https://github.com/Maheswari663/Maheswari/tree/master/0981-time-based-key-value-store) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/Maheswari663/Maheswari/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Maheswari663/Maheswari/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Maheswari663/Maheswari/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Maheswari663/Maheswari/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
