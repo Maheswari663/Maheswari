@@ -114,12 +114,14 @@
 | [0210-course-schedule-ii](https://github.com/Maheswari663/Maheswari/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/Maheswari663/Maheswari/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Maheswari663/Maheswari/tree/master/0743-network-delay-time) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Maheswari663/Maheswari/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/Maheswari663/Maheswari/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Maheswari663/Maheswari/tree/master/0743-network-delay-time) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -195,4 +197,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maheswari663/Maheswari/tree/master/0215-kth-largest-element-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
