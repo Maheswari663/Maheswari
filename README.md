@@ -209,4 +209,8 @@
 |  |
 | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Maheswari663/Maheswari/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
