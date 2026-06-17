@@ -50,6 +50,7 @@
 | [0217-contains-duplicate](https://github.com/Maheswari663/Maheswari/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Maheswari663/Maheswari/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/Maheswari663/Maheswari/tree/master/0355-design-twitter) |
+| [0763-partition-labels](https://github.com/Maheswari663/Maheswari/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/Maheswari663/Maheswari/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -67,6 +68,7 @@
 | [0115-distinct-subsequences](https://github.com/Maheswari663/Maheswari/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Maheswari663/Maheswari/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Maheswari663/Maheswari/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/Maheswari663/Maheswari/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/Maheswari663/Maheswari/tree/master/0981-time-based-key-value-store) |
 ## Dynamic Programming
 |  |
@@ -93,6 +95,7 @@
 | ------- |
 | [0134-gas-station](https://github.com/Maheswari663/Maheswari/tree/master/0134-gas-station) |
 | [0678-valid-parenthesis-string](https://github.com/Maheswari663/Maheswari/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/Maheswari663/Maheswari/tree/master/0763-partition-labels) |
 ## Union-Find
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Maheswari663/Maheswari/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
+| [0763-partition-labels](https://github.com/Maheswari663/Maheswari/tree/master/0763-partition-labels) |
 ## Binary Search
 |  |
 | ------- |
