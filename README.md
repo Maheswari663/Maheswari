@@ -86,6 +86,7 @@
 | [0518-coin-change-ii](https://github.com/Maheswari663/Maheswari/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Maheswari663/Maheswari/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Maheswari663/Maheswari/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Maheswari663/Maheswari/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Stack
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Maheswari663/Maheswari/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Maheswari663/Maheswari/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Maheswari663/Maheswari/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Maheswari663/Maheswari/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
@@ -119,6 +121,7 @@
 | [0210-course-schedule-ii](https://github.com/Maheswari663/Maheswari/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/Maheswari663/Maheswari/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Maheswari663/Maheswari/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Maheswari663/Maheswari/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -126,6 +129,7 @@
 | [0210-course-schedule-ii](https://github.com/Maheswari663/Maheswari/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/Maheswari663/Maheswari/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Maheswari663/Maheswari/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Maheswari663/Maheswari/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
@@ -138,6 +142,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Maheswari663/Maheswari/tree/master/0215-kth-largest-element-in-an-array) |
 | [0355-design-twitter](https://github.com/Maheswari663/Maheswari/tree/master/0355-design-twitter) |
 | [0743-network-delay-time](https://github.com/Maheswari663/Maheswari/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Maheswari663/Maheswari/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/Maheswari663/Maheswari/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
@@ -192,6 +197,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Maheswari663/Maheswari/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Maheswari663/Maheswari/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Recursion
 |  |
 | ------- |
