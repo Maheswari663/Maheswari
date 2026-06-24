@@ -124,6 +124,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Maheswari663/Maheswari/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0110-balanced-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/Maheswari663/Maheswari/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Maheswari663/Maheswari/tree/master/0695-max-area-of-island) |
@@ -233,6 +234,7 @@
 | [0100-same-tree](https://github.com/Maheswari663/Maheswari/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Maheswari663/Maheswari/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0226-invert-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -241,6 +243,7 @@
 | [0100-same-tree](https://github.com/Maheswari663/Maheswari/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Maheswari663/Maheswari/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0226-invert-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Math
