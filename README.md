@@ -128,6 +128,7 @@
 | [0110-balanced-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0110-balanced-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/Maheswari663/Maheswari/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Maheswari663/Maheswari/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Maheswari663/Maheswari/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Maheswari663/Maheswari/tree/master/0695-max-area-of-island) |
@@ -240,6 +241,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Maheswari663/Maheswari/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Maheswari663/Maheswari/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -252,6 +254,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Maheswari663/Maheswari/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Maheswari663/Maheswari/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -268,6 +271,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Maheswari663/Maheswari/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Maheswari663/Maheswari/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
