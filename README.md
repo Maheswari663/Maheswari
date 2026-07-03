@@ -25,6 +25,7 @@
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Maheswari663/Maheswari/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Maheswari663/Maheswari/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Maheswari663/Maheswari/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Maheswari663/Maheswari/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0152-maximum-product-subarray) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Maheswari663/Maheswari/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/Maheswari663/Maheswari/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Maheswari663/Maheswari/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0152-maximum-product-subarray) |
@@ -238,6 +240,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Maheswari663/Maheswari/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maheswari663/Maheswari/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
