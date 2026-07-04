@@ -71,6 +71,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Maheswari663/Maheswari/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Maheswari663/Maheswari/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Maheswari663/Maheswari/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Maheswari663/Maheswari/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Maheswari663/Maheswari/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Maheswari663/Maheswari/tree/master/0091-decode-ways) |
@@ -100,6 +101,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Maheswari663/Maheswari/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Maheswari663/Maheswari/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/Maheswari663/Maheswari/tree/master/0853-car-fleet) |
