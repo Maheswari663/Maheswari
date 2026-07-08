@@ -50,6 +50,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Maheswari663/Maheswari/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Maheswari663/Maheswari/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Maheswari663/Maheswari/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Maheswari663/Maheswari/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Maheswari663/Maheswari/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Maheswari663/Maheswari/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Maheswari663/Maheswari/tree/master/0146-lru-cache) |
@@ -74,6 +75,7 @@
 | [0020-valid-parentheses](https://github.com/Maheswari663/Maheswari/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Maheswari663/Maheswari/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Maheswari663/Maheswari/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Maheswari663/Maheswari/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Maheswari663/Maheswari/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Maheswari663/Maheswari/tree/master/0115-distinct-subsequences) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Maheswari663/Maheswari/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -312,4 +314,8 @@
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Maheswari663/Maheswari/tree/master/0211-design-add-and-search-words-data-structure) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Maheswari663/Maheswari/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
