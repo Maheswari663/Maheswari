@@ -26,6 +26,7 @@
 | [0046-permutations](https://github.com/Maheswari663/Maheswari/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Maheswari663/Maheswari/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Maheswari663/Maheswari/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Maheswari663/Maheswari/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Maheswari663/Maheswari/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0152-maximum-product-subarray) |
@@ -199,6 +200,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Maheswari663/Maheswari/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
@@ -206,6 +208,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Maheswari663/Maheswari/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/Maheswari663/Maheswari/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Maheswari663/Maheswari/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Maheswari663/Maheswari/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Maheswari663/Maheswari/tree/master/0494-target-sum) |
 ## Monotonic Stack
 |  |
