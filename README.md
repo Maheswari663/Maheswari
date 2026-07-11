@@ -93,6 +93,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Maheswari663/Maheswari/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Maheswari663/Maheswari/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Maheswari663/Maheswari/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Maheswari663/Maheswari/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0152-maximum-product-subarray) |
@@ -307,6 +308,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Maheswari663/Maheswari/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Maheswari663/Maheswari/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/Maheswari663/Maheswari/tree/master/0070-climbing-stairs) |
 ## Simulation
 |  |
 | ------- |
@@ -338,4 +340,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Maheswari663/Maheswari/tree/master/0703-kth-largest-element-in-a-stream) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Maheswari663/Maheswari/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
