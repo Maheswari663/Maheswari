@@ -58,6 +58,7 @@
 | [0217-contains-duplicate](https://github.com/Maheswari663/Maheswari/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Maheswari663/Maheswari/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/Maheswari663/Maheswari/tree/master/0355-design-twitter) |
+| [0567-permutation-in-string](https://github.com/Maheswari663/Maheswari/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Maheswari663/Maheswari/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/Maheswari663/Maheswari/tree/master/0981-time-based-key-value-store) |
 ## Sorting
@@ -82,6 +83,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Maheswari663/Maheswari/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Maheswari663/Maheswari/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0567-permutation-in-string](https://github.com/Maheswari663/Maheswari/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Maheswari663/Maheswari/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Maheswari663/Maheswari/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/Maheswari663/Maheswari/tree/master/0981-time-based-key-value-store) |
@@ -190,6 +192,7 @@
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Maheswari663/Maheswari/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/Maheswari663/Maheswari/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Maheswari663/Maheswari/tree/master/0763-partition-labels) |
 ## Binary Search
 |  |
@@ -325,4 +328,5 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Maheswari663/Maheswari/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/Maheswari663/Maheswari/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
