@@ -26,6 +26,7 @@
 | [0046-permutations](https://github.com/Maheswari663/Maheswari/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Maheswari663/Maheswari/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Maheswari663/Maheswari/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Maheswari663/Maheswari/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Maheswari663/Maheswari/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Maheswari663/Maheswari/tree/master/0134-gas-station) |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Maheswari663/Maheswari/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/Maheswari663/Maheswari/tree/master/0074-search-a-2d-matrix) |
 | [0695-max-area-of-island](https://github.com/Maheswari663/Maheswari/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Maheswari663/Maheswari/tree/master/0778-swim-in-rising-water) |
 ## Heap (Priority Queue)
@@ -200,6 +202,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Maheswari663/Maheswari/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Maheswari663/Maheswari/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
 | [0778-swim-in-rising-water](https://github.com/Maheswari663/Maheswari/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/Maheswari663/Maheswari/tree/master/0981-time-based-key-value-store) |
