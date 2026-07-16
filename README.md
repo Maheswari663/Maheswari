@@ -37,6 +37,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Maheswari663/Maheswari/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/Maheswari663/Maheswari/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Maheswari663/Maheswari/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Maheswari663/Maheswari/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Maheswari663/Maheswari/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/Maheswari663/Maheswari/tree/master/0695-max-area-of-island) |
@@ -70,6 +71,7 @@
 | [0217-contains-duplicate](https://github.com/Maheswari663/Maheswari/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Maheswari663/Maheswari/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Maheswari663/Maheswari/tree/master/0295-find-median-from-data-stream) |
+| [0435-non-overlapping-intervals](https://github.com/Maheswari663/Maheswari/tree/master/0435-non-overlapping-intervals) |
 | [0853-car-fleet](https://github.com/Maheswari663/Maheswari/tree/master/0853-car-fleet) |
 ## String
 |  |
@@ -103,6 +105,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Maheswari663/Maheswari/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/Maheswari663/Maheswari/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Maheswari663/Maheswari/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Maheswari663/Maheswari/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Maheswari663/Maheswari/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Maheswari663/Maheswari/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Maheswari663/Maheswari/tree/master/0678-valid-parenthesis-string) |
@@ -119,6 +122,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Maheswari663/Maheswari/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/Maheswari663/Maheswari/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Maheswari663/Maheswari/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Maheswari663/Maheswari/tree/master/0763-partition-labels) |
 ## Union-Find
