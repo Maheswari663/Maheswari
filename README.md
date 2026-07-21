@@ -46,6 +46,7 @@
 | [0778-swim-in-rising-water](https://github.com/Maheswari663/Maheswari/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/Maheswari663/Maheswari/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Maheswari663/Maheswari/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/Maheswari663/Maheswari/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Maheswari663/Maheswari/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Maheswari663/Maheswari/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Table
@@ -78,6 +79,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Maheswari663/Maheswari/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/Maheswari663/Maheswari/tree/master/0435-non-overlapping-intervals) |
 | [0853-car-fleet](https://github.com/Maheswari663/Maheswari/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/Maheswari663/Maheswari/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [0743-network-delay-time](https://github.com/Maheswari663/Maheswari/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Maheswari663/Maheswari/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Maheswari663/Maheswari/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/Maheswari663/Maheswari/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Maheswari663/Maheswari/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
@@ -290,10 +293,12 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Maheswari663/Maheswari/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/Maheswari663/Maheswari/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maheswari663/Maheswari/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Maheswari663/Maheswari/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maheswari663/Maheswari/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Maheswari663/Maheswari/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -334,6 +339,7 @@
 | [0007-reverse-integer](https://github.com/Maheswari663/Maheswari/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Maheswari663/Maheswari/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Maheswari663/Maheswari/tree/master/0070-climbing-stairs) |
+| [0973-k-closest-points-to-origin](https://github.com/Maheswari663/Maheswari/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -372,4 +378,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Maheswari663/Maheswari/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Maheswari663/Maheswari/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
