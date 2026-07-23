@@ -287,6 +287,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Maheswari663/Maheswari/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Maheswari663/Maheswari/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Maheswari663/Maheswari/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
@@ -340,6 +341,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Maheswari663/Maheswari/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Maheswari663/Maheswari/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Maheswari663/Maheswari/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Maheswari663/Maheswari/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Maheswari663/Maheswari/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
