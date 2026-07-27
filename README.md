@@ -127,6 +127,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Maheswari663/Maheswari/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Maheswari663/Maheswari/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/Maheswari663/Maheswari/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/Maheswari663/Maheswari/tree/master/0853-car-fleet) |
 ## Greedy
@@ -259,6 +260,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Maheswari663/Maheswari/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Maheswari663/Maheswari/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Maheswari663/Maheswari/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Maheswari663/Maheswari/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/Maheswari663/Maheswari/tree/master/0295-find-median-from-data-stream) |
