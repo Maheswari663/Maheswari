@@ -151,6 +151,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Maheswari663/Maheswari/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Maheswari663/Maheswari/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Maheswari663/Maheswari/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Maheswari663/Maheswari/tree/master/0332-reconstruct-itinerary) |
@@ -169,6 +170,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Maheswari663/Maheswari/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Maheswari663/Maheswari/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Maheswari663/Maheswari/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Maheswari663/Maheswari/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0226-invert-binary-tree) |
@@ -192,6 +194,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Maheswari663/Maheswari/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Maheswari663/Maheswari/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Maheswari663/Maheswari/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Maheswari663/Maheswari/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -267,6 +270,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Maheswari663/Maheswari/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Maheswari663/Maheswari/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Maheswari663/Maheswari/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Design
