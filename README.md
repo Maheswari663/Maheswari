@@ -251,6 +251,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Maheswari663/Maheswari/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Maheswari663/Maheswari/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Maheswari663/Maheswari/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Maheswari663/Maheswari/tree/master/0338-counting-bits) |
 ## Backtracking
@@ -314,6 +315,7 @@
 | [0053-maximum-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Maheswari663/Maheswari/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/Maheswari663/Maheswari/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Maheswari663/Maheswari/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maheswari663/Maheswari/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Maheswari663/Maheswari/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
