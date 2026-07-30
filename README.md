@@ -27,6 +27,7 @@
 | [0049-group-anagrams](https://github.com/Maheswari663/Maheswari/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Maheswari663/Maheswari/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Maheswari663/Maheswari/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Maheswari663/Maheswari/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Maheswari663/Maheswari/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Maheswari663/Maheswari/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -365,6 +366,7 @@
 | [0043-multiply-strings](https://github.com/Maheswari663/Maheswari/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Maheswari663/Maheswari/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Maheswari663/Maheswari/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Maheswari663/Maheswari/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Maheswari663/Maheswari/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Maheswari663/Maheswari/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
