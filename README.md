@@ -112,6 +112,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Maheswari663/Maheswari/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Maheswari663/Maheswari/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Maheswari663/Maheswari/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Maheswari663/Maheswari/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Maheswari663/Maheswari/tree/master/0115-distinct-subsequences) |
@@ -363,6 +364,7 @@
 | [0007-reverse-integer](https://github.com/Maheswari663/Maheswari/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Maheswari663/Maheswari/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Maheswari663/Maheswari/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Maheswari663/Maheswari/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Maheswari663/Maheswari/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Maheswari663/Maheswari/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
@@ -412,4 +414,8 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Maheswari663/Maheswari/tree/master/0332-reconstruct-itinerary) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Maheswari663/Maheswari/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
