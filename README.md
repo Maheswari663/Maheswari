@@ -50,6 +50,7 @@
 | [0778-swim-in-rising-water](https://github.com/Maheswari663/Maheswari/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/Maheswari663/Maheswari/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Maheswari663/Maheswari/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Maheswari663/Maheswari/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Maheswari663/Maheswari/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Maheswari663/Maheswari/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Maheswari663/Maheswari/tree/master/1584-min-cost-to-connect-all-points) |
@@ -129,6 +130,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Maheswari663/Maheswari/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Maheswari663/Maheswari/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Maheswari663/Maheswari/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Maheswari663/Maheswari/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -372,6 +374,7 @@
 | [0066-plus-one](https://github.com/Maheswari663/Maheswari/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Maheswari663/Maheswari/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/Maheswari663/Maheswari/tree/master/0371-sum-of-two-integers) |
+| [0877-stone-game](https://github.com/Maheswari663/Maheswari/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Maheswari663/Maheswari/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
 |  |
@@ -424,4 +427,16 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Maheswari663/Maheswari/tree/master/0062-unique-paths) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Maheswari663/Maheswari/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Maheswari663/Maheswari/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Maheswari663/Maheswari/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
