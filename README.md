@@ -53,6 +53,7 @@
 | [0875-koko-eating-bananas](https://github.com/Maheswari663/Maheswari/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Maheswari663/Maheswari/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Maheswari663/Maheswari/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/Maheswari663/Maheswari/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Maheswari663/Maheswari/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Maheswari663/Maheswari/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Table
@@ -209,6 +210,7 @@
 | [0743-network-delay-time](https://github.com/Maheswari663/Maheswari/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Maheswari663/Maheswari/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Maheswari663/Maheswari/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0994-rotting-oranges](https://github.com/Maheswari663/Maheswari/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
@@ -219,6 +221,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Maheswari663/Maheswari/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Maheswari663/Maheswari/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Maheswari663/Maheswari/tree/master/0778-swim-in-rising-water) |
+| [0994-rotting-oranges](https://github.com/Maheswari663/Maheswari/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
