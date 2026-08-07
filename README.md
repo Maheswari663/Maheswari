@@ -30,6 +30,7 @@
 | [0066-plus-one](https://github.com/Maheswari663/Maheswari/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Maheswari663/Maheswari/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Maheswari663/Maheswari/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Maheswari663/Maheswari/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Maheswari663/Maheswari/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Maheswari663/Maheswari/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0152-maximum-product-subarray) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Maheswari663/Maheswari/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Maheswari663/Maheswari/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Maheswari663/Maheswari/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/Maheswari663/Maheswari/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/Maheswari663/Maheswari/tree/master/0853-car-fleet) |
@@ -276,6 +278,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Maheswari663/Maheswari/tree/master/0084-largest-rectangle-in-histogram) |
 | [0853-car-fleet](https://github.com/Maheswari663/Maheswari/tree/master/0853-car-fleet) |
 ## Topological Sort
 |  |
@@ -447,4 +450,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Maheswari663/Maheswari/tree/master/0238-product-of-array-except-self) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Maheswari663/Maheswari/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
