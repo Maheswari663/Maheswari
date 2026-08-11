@@ -102,6 +102,7 @@
 | [0091-decode-ways](https://github.com/Maheswari663/Maheswari/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Maheswari663/Maheswari/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Maheswari663/Maheswari/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Maheswari663/Maheswari/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Maheswari663/Maheswari/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Maheswari663/Maheswari/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Maheswari663/Maheswari/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -246,6 +247,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Maheswari663/Maheswari/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Maheswari663/Maheswari/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Maheswari663/Maheswari/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Maheswari663/Maheswari/tree/master/0295-find-median-from-data-stream) |
