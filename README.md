@@ -32,6 +32,7 @@
 | [0078-subsets](https://github.com/Maheswari663/Maheswari/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Maheswari663/Maheswari/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Maheswari663/Maheswari/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Maheswari663/Maheswari/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Maheswari663/Maheswari/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Maheswari663/Maheswari/tree/master/0213-house-robber-ii) |
@@ -128,6 +129,7 @@
 | [0091-decode-ways](https://github.com/Maheswari663/Maheswari/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Maheswari663/Maheswari/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Maheswari663/Maheswari/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Maheswari663/Maheswari/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Maheswari663/Maheswari/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Maheswari663/Maheswari/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
