@@ -50,6 +50,7 @@
 | [0494-target-sum](https://github.com/Maheswari663/Maheswari/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Maheswari663/Maheswari/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/Maheswari663/Maheswari/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/Maheswari663/Maheswari/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Maheswari663/Maheswari/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Maheswari663/Maheswari/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/Maheswari663/Maheswari/tree/master/0853-car-fleet) |
@@ -265,6 +266,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Maheswari663/Maheswari/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Maheswari663/Maheswari/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Maheswari663/Maheswari/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/Maheswari663/Maheswari/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Maheswari663/Maheswari/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Maheswari663/Maheswari/tree/master/0981-time-based-key-value-store) |
