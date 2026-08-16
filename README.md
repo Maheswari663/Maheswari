@@ -35,6 +35,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maheswari663/Maheswari/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Maheswari663/Maheswari/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Maheswari663/Maheswari/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0213-house-robber-ii](https://github.com/Maheswari663/Maheswari/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maheswari663/Maheswari/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Maheswari663/Maheswari/tree/master/0217-contains-duplicate) |
@@ -265,6 +266,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Maheswari663/Maheswari/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Maheswari663/Maheswari/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Maheswari663/Maheswari/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Maheswari663/Maheswari/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/Maheswari663/Maheswari/tree/master/0778-swim-in-rising-water) |
