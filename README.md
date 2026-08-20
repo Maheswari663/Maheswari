@@ -152,6 +152,7 @@
 | [0020-valid-parentheses](https://github.com/Maheswari663/Maheswari/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Maheswari663/Maheswari/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/Maheswari663/Maheswari/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Maheswari663/Maheswari/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/Maheswari663/Maheswari/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/Maheswari663/Maheswari/tree/master/0853-car-fleet) |
@@ -257,6 +258,7 @@
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Maheswari663/Maheswari/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Maheswari663/Maheswari/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Maheswari663/Maheswari/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Maheswari663/Maheswari/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Maheswari663/Maheswari/tree/master/0567-permutation-in-string) |
@@ -321,6 +323,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Maheswari663/Maheswari/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Maheswari663/Maheswari/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Maheswari663/Maheswari/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Maheswari663/Maheswari/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Maheswari663/Maheswari/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Maheswari663/Maheswari/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/Maheswari663/Maheswari/tree/master/0355-design-twitter) |
@@ -339,6 +342,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Maheswari663/Maheswari/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Maheswari663/Maheswari/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Maheswari663/Maheswari/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Maheswari663/Maheswari/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Maheswari663/Maheswari/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
