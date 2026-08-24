@@ -240,6 +240,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Maheswari663/Maheswari/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maheswari663/Maheswari/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Maheswari663/Maheswari/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Maheswari663/Maheswari/tree/master/0295-find-median-from-data-stream) |
@@ -321,6 +322,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Maheswari663/Maheswari/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Maheswari663/Maheswari/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Maheswari663/Maheswari/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Maheswari663/Maheswari/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Maheswari663/Maheswari/tree/master/0143-reorder-list) |
@@ -347,6 +349,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Maheswari663/Maheswari/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Maheswari663/Maheswari/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/Maheswari663/Maheswari/tree/master/0190-reverse-bits) |
@@ -494,4 +497,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Maheswari663/Maheswari/tree/master/0141-linked-list-cycle) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Maheswari663/Maheswari/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Maheswari663/Maheswari/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
