@@ -134,6 +134,7 @@
 | [0097-interleaving-string](https://github.com/Maheswari663/Maheswari/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Maheswari663/Maheswari/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maheswari663/Maheswari/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Maheswari663/Maheswari/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Maheswari663/Maheswari/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Maheswari663/Maheswari/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Maheswari663/Maheswari/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -191,6 +192,7 @@
 | [0100-same-tree](https://github.com/Maheswari663/Maheswari/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Maheswari663/Maheswari/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Maheswari663/Maheswari/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Maheswari663/Maheswari/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Maheswari663/Maheswari/tree/master/0210-course-schedule-ii) |
@@ -372,6 +374,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Maheswari663/Maheswari/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Maheswari663/Maheswari/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Maheswari663/Maheswari/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Maheswari663/Maheswari/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -389,6 +392,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Maheswari663/Maheswari/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Maheswari663/Maheswari/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Maheswari663/Maheswari/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Maheswari663/Maheswari/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -507,4 +511,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Maheswari663/Maheswari/tree/master/0023-merge-k-sorted-lists) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Maheswari663/Maheswari/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
