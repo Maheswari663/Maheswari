@@ -31,6 +31,7 @@
 | [0066-plus-one](https://github.com/Maheswari663/Maheswari/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Maheswari663/Maheswari/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Maheswari663/Maheswari/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Maheswari663/Maheswari/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Maheswari663/Maheswari/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Maheswari663/Maheswari/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maheswari663/Maheswari/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -106,6 +107,7 @@
 | [0043-multiply-strings](https://github.com/Maheswari663/Maheswari/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Maheswari663/Maheswari/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Maheswari663/Maheswari/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Maheswari663/Maheswari/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Maheswari663/Maheswari/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Maheswari663/Maheswari/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Maheswari663/Maheswari/tree/master/0115-distinct-subsequences) |
@@ -188,6 +190,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Maheswari663/Maheswari/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Maheswari663/Maheswari/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Maheswari663/Maheswari/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -235,6 +238,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Maheswari663/Maheswari/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Maheswari663/Maheswari/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Maheswari663/Maheswari/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Maheswari663/Maheswari/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Maheswari663/Maheswari/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Maheswari663/Maheswari/tree/master/0695-max-area-of-island) |
@@ -297,6 +301,7 @@
 | [0046-permutations](https://github.com/Maheswari663/Maheswari/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Maheswari663/Maheswari/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Maheswari663/Maheswari/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Maheswari663/Maheswari/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Maheswari663/Maheswari/tree/master/0494-target-sum) |
 ## Monotonic Stack
 |  |
