@@ -46,6 +46,7 @@
 | [0239-sliding-window-maximum](https://github.com/Maheswari663/Maheswari/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Maheswari663/Maheswari/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/Maheswari663/Maheswari/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Maheswari663/Maheswari/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Maheswari663/Maheswari/tree/master/0332-reconstruct-itinerary) |
 | [0416-partition-equal-subset-sum](https://github.com/Maheswari663/Maheswari/tree/master/0416-partition-equal-subset-sum) |
@@ -142,6 +143,7 @@
 | [0198-house-robber](https://github.com/Maheswari663/Maheswari/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Maheswari663/Maheswari/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Maheswari663/Maheswari/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/Maheswari663/Maheswari/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Maheswari663/Maheswari/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Maheswari663/Maheswari/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Maheswari663/Maheswari/tree/master/0416-partition-equal-subset-sum) |
@@ -227,6 +229,7 @@
 | [0210-course-schedule-ii](https://github.com/Maheswari663/Maheswari/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Maheswari663/Maheswari/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Maheswari663/Maheswari/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Maheswari663/Maheswari/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Maheswari663/Maheswari/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Maheswari663/Maheswari/tree/master/0695-max-area-of-island) |
@@ -522,4 +525,12 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Maheswari663/Maheswari/tree/master/0124-binary-tree-maximum-path-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Maheswari663/Maheswari/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Maheswari663/Maheswari/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
