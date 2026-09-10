@@ -125,6 +125,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Maheswari663/Maheswari/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Maheswari663/Maheswari/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/Maheswari663/Maheswari/tree/master/0981-time-based-key-value-store) |
+| [1143-longest-common-subsequence](https://github.com/Maheswari663/Maheswari/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Maheswari663/Maheswari/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Maheswari663/Maheswari/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Maheswari663/Maheswari/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/Maheswari663/Maheswari/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -537,4 +539,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Maheswari663/Maheswari/tree/master/0005-longest-palindromic-substring) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Maheswari663/Maheswari/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
