@@ -533,4 +533,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Maheswari663/Maheswari/tree/master/0322-coin-change) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Maheswari663/Maheswari/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
