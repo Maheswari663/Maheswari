@@ -578,4 +578,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Maheswari663/Maheswari/tree/master/0300-longest-increasing-subsequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Maheswari663/Maheswari/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
