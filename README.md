@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Maheswari663/Maheswari/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Maheswari663/Maheswari/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Maheswari663/Maheswari/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Maheswari663/Maheswari/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Maheswari663/Maheswari/tree/master/0039-combination-sum) |
@@ -97,6 +98,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Maheswari663/Maheswari/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Maheswari663/Maheswari/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maheswari663/Maheswari/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Maheswari663/Maheswari/tree/master/0217-contains-duplicate) |
@@ -297,6 +299,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Maheswari663/Maheswari/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Maheswari663/Maheswari/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Maheswari663/Maheswari/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Maheswari663/Maheswari/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Maheswari663/Maheswari/tree/master/0141-linked-list-cycle) |
