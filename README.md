@@ -557,6 +557,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Maheswari663/Maheswari/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -598,4 +599,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Maheswari663/Maheswari/tree/master/0051-n-queens) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Maheswari663/Maheswari/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
