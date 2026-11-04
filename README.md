@@ -95,6 +95,7 @@
 | [0242-valid-anagram](https://github.com/Maheswari663/Maheswari/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/Maheswari663/Maheswari/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Maheswari663/Maheswari/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Maheswari663/Maheswari/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Maheswari663/Maheswari/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Maheswari663/Maheswari/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/Maheswari663/Maheswari/tree/master/0981-time-based-key-value-store) |
@@ -138,6 +139,7 @@
 | [0332-reconstruct-itinerary](https://github.com/Maheswari663/Maheswari/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/Maheswari663/Maheswari/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Maheswari663/Maheswari/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Maheswari663/Maheswari/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Maheswari663/Maheswari/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Maheswari663/Maheswari/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Maheswari663/Maheswari/tree/master/0763-partition-labels) |
@@ -504,6 +506,7 @@
 | [0076-minimum-window-substring](https://github.com/Maheswari663/Maheswari/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Maheswari663/Maheswari/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Maheswari663/Maheswari/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Maheswari663/Maheswari/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Maheswari663/Maheswari/tree/master/0567-permutation-in-string) |
 ## Data Stream
 |  |
