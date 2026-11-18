@@ -477,6 +477,7 @@
 | [0371-sum-of-two-integers](https://github.com/Maheswari663/Maheswari/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/Maheswari663/Maheswari/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Maheswari663/Maheswari/tree/master/0973-k-closest-points-to-origin) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Maheswari663/Maheswari/tree/master/2119-a-number-after-a-double-reversal) |
 ## Simulation
 |  |
 | ------- |
